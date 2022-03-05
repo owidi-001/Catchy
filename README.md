@@ -1,6 +1,11 @@
 # Catchy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+Is a news platform developed by `kevinalex846@gmail.com` to help you get updated with the latest trending, top and interesting developing stories across the globe .
+The platform has various unique features that enables you get whatever you'd want with ease. This includes browsing categorically for news items as well as choosing from the news sources.
+The platform takes advantage of the freely available <a href="https://newsapi.org/">news api</a>
+Any suggestions for improvement will be highly appreciated. You know the drill. `fork`, create `pull requests`. Will get to you back ASAP. Cheers.
+
+# Developer guide
 
 ## Development server
 
